@@ -1,0 +1,25 @@
+{
+  "name": "alerts-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.ts",
+  "scripts": {
+    "start": "npm run build",
+    "build": "tsc && npm run prettier:all && node dist/server.js",
+    "prettier:all": "prettier --write \"src/**/*.ts\""
+  },
+  "keywords": [],
+  "author": "Noy Cohen",
+  "license": "ISC",
+  "devDependencies": {
+    "graphql-playground-react": "^1.7.20",
+    "prettier": "^2.0.5",
+    "typescript": "^3.9.7"
+  },
+  "dependencies": {
+    "apollo-server": "^2.9.16",
+    "apollo-server-express": "^2.9.16",
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
