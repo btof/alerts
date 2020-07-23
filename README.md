@@ -1,3 +1,4 @@
 # alerts
 
-Don't change the version of "apollo-server-express" because we need this version for the playground.
+### Known Issues
+* Keep __apollo-server-express__ at version 2.9.16 because we need this version for the playground.
