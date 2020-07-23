@@ -12,9 +12,9 @@
   "author": "Noy Cohen",
   "license": "ISC",
   "devDependencies": {
-    "graphql-playground-react": "^1.7.23",
-    "prettier": "^2.0.5",
-    "typescript": "^3.9.7"
+    "graphql-playground-react": "1.7.23",
+    "prettier": "2.0.5",
+    "typescript": "3.9.7"
   },
   "dependencies": {
     "apollo-server": "^2.16.0",
