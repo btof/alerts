@@ -12,7 +12,7 @@
   "author": "Noy Cohen",
   "license": "ISC",
   "devDependencies": {
-    "graphql-playground-react": "1.7.23",
+    "graphql-playground-react": "1.7.24",
     "prettier": "2.1.1",
     "typescript": "3.9.7"
   },
