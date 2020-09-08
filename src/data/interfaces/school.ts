@@ -1,3 +1,3 @@
 export interface School {
-    name: String;
+  name: String;
 }
