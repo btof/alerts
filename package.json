@@ -19,7 +19,7 @@
     "@types/ws": "7.2.6",
     "graphql-playground-react": "1.7.20",
     "nodemon": "2.0.4",
-    "prettier": "2.0.5",
+    "prettier": "2.1.2",
     "typescript": "3.9.7"
   },
   "dependencies": {
