@@ -39,7 +39,7 @@
     "graphql-playground-react": "1.7.27",
     "husky": "4.3.0",
     "lint-staged": "10.5.0",
-    "ncp": "^2.0.0",
+    "ncp": "2.0.0",
     "nodemon": "2.0.6",
     "prettier": "2.0.5",
     "typescript": "3.9.7"
