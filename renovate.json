@@ -11,7 +11,8 @@
     "packageRules": [
       {
         "packagePatterns": [
-          "apollo-server-express"
+          "apollo-server-express",
+          "graphql-playground-react"
         ],
         "enabled": false
       }
