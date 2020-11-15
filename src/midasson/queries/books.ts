@@ -1,7 +1,7 @@
 import { gql } from 'apollo-server-express';
 
 export const booksQuery = gql`
-  query {
+  query BooksResponse {
     books {
       title
       author

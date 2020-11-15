@@ -1,7 +1,7 @@
 import { gql } from 'apollo-server-express';
 
 export const schoolsQuery = gql`
-  query {
+  query SchoolsResponse {
     schools {
       name
       location
