@@ -1,6 +1,6 @@
-# alerts
+# Alert Server
+
+Repository containing the alert server's package.json and other important files.
+All updates and changes should be made through this repository.
 
 ### Known Issues
-* Keep __
-__ at version 2.9.16 because we need this version for the playground.
-* Keep __graphql-playground-react__ at version 1.7.26 because we need this version for the playground.
