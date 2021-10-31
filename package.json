@@ -64,7 +64,7 @@
     "express": "4.17.1",
     "graphql": "15.7.2",
     "graphql-tools": "7.0.5",
-    "node-fetch": "2.6.5",
+    "node-fetch": "2.6.6",
     "path": "0.12.7",
     "rimraf": "3.0.2",
     "rxjs": "7.4.0",
