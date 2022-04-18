@@ -67,7 +67,7 @@
     "node-fetch": "2.6.7",
     "path": "0.12.7",
     "rimraf": "3.0.2",
-    "rxjs": "7.4.0",
+    "rxjs": "7.5.5",
     "winston": "3.3.3",
     "winston3-logstash-transport": "1.2.3"
   },
