@@ -62,7 +62,7 @@
     "apollo-server-express": "2.25.3",
     "cors": "2.8.5",
     "express": "4.17.3",
-    "graphql": "16.3.0",
+    "graphql": "16.4.0",
     "graphql-tools": "8.2.8",
     "node-fetch": "2.6.7",
     "path": "0.12.7",
