@@ -40,7 +40,7 @@
     "@typescript-eslint/parser": "4.33.0",
     "chai": "4.3.8",
     "eslint": "7.32.0",
-    "eslint-config-prettier": "8.8.0",
+    "eslint-config-prettier": "8.10.0",
     "eslint-plugin-import": "2.27.5",
     "husky": "6.0.0",
     "lint-staged": "13.2.1",
