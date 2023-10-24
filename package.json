@@ -32,7 +32,7 @@
   "devDependencies": {
     "@types/chai": "4.3.6",
     "@types/debug": "4.1.10",
-    "@types/express": "4.17.17",
+    "@types/express": "4.17.20",
     "@types/mocha": "8.2.3",
     "@types/node": "14.18.59",
     "@types/winston": "2.4.4",
