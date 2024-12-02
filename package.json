@@ -59,7 +59,7 @@
     "apollo-link": "1.2.14",
     "apollo-link-error": "1.1.13",
     "apollo-link-http": "1.5.17",
-    "apollo-server-express": "2.26.2",
+    "apollo-server-express": "3.13.0",
     "cors": "2.8.5",
     "express": "4.20.0",
     "graphql": "16.8.1",
